@@ -18,4 +18,4 @@ var TrandingSlider = new Swiper('.tranding-slider', {
       nextEl: '.swiper-button-next',
       prevEl: '.swiper-button-prev',
     }
-  });
+  });branch
